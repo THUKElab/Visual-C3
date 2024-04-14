@@ -12,7 +12,7 @@ In the real world where handwriting occupies the vast majority, characters that 
 
 ## Data Description & Rules
 
-We provide a Chinese Character Checking benchmark named $$Visual-C^{3}$$, a human-annotated Visual Chinese Character Checking dataset with faked and misspelled Chinese character. It consists of 10,072 sentences represented by images. We randomly divided the training set, validation set, and test set according to the ratio of 3:1:1. The validation set can be utilized for model performance testing and hyper-parameter tuning, but it cannot be directly used for model training. 
+We provide a Chinese Character Checking benchmark named Visual-C3, a human-annotated Visual Chinese Character Checking dataset with faked and misspelled Chinese character. It consists of 10,072 sentences represented by images. We randomly divided the training set, validation set, and test set according to the ratio of 3:1:1. The validation set can be utilized for model performance testing and hyper-parameter tuning, but it cannot be directly used for model training. 
 
 **Data Description:**
 
