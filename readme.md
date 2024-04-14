@@ -6,7 +6,7 @@
 
 In the real world where handwriting occupies the vast majority, characters that humans get wrong include faked characters (i.e., untrue characters created due to writing errors) and misspelled characters (i.e., true characters used incorrectly due to spelling errors), as illustrated in Figure 1. **Visual Chinese Character Checking task** aims at detecting and correcting wrong characters in the given text on an image in real-world scenarios. This task focuses on correcting characters based on a human-annotated Visual Chinese Character Checking dataset with faked and misspelled Chinese characters.
 
-<img src="figure1.png" alt="image-20240412170108514" style="zoom:50%;" />
+<img src="figure1.png" alt="image-20240412170108514" style="zoom:30%;" />
 
 
 
