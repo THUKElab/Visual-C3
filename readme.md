@@ -20,7 +20,7 @@ In the Train, Validation and Test folders, three subfolders are included: imgs, 
 
 - imgs folder: stores the image dataset.
 - label folder: contains the source (src) and target (tgt) labels corresponding to the image dataset, where faked characters in the source labels are represented by the symbol 'X'.
-- char_label folder: contains the label of each character in each image in the format of [x_center, y_center, w, h], which represents the center coordinate, width and height of the character respectively.
+- char_label folder: contains the label of each character in each image in the format of [x, y, w, h], which represents the upper left corner coordinate, width and height of the character respectively.
 
 For model training, only the data provided by [this link](https://cloud.tsinghua.edu.cn/d/2dcf9a4315614a02ad77/) is allowed to be used as supervised data in this shared task. When using these data, please follow the rules set by the original data publisher. Meanwhile, for unsupervised data, any corpus publicly available on the web is allowed to be used. Based on unsupervised data, participants can use any data augmentation methods to construct pseudo-parallel data for model training.
 
